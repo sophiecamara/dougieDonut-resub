@@ -1,0 +1,20 @@
+.main{ 
+background-color: rgb(136, 136, 218);
+margin:auto ; 
+text-align: center;
+width: 700px;
+}
+
+
+.resolution{
+    display: none;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+}
